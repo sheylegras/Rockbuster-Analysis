@@ -19,7 +19,10 @@ All data was supplied by CareerFoundry as part of the course. The following tabl
 - Address
 - City
 - Country
-- A full data ditionary can be found [here](https://github.com/sheylegras/Rockbuster-Analysis/files/9244525/Rockbuster.Data.Dictionary.pdf).
+<br/>
+A full data ditionary can be found [here](https://github.com/sheylegras/Rockbuster-Analysis/files/9244525/Rockbuster.Data.Dictionary.pdf).
+<br/>
+
 ## **Tools**
 - Postgre SQL was used for data analysis
 - Tableau was used for visualizations
